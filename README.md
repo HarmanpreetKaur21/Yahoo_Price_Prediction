@@ -19,7 +19,7 @@ A machine learning model that predicts Yahoo stock prices using historical data.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HarmanpreetKaur21/Yahoo-Stock-Prediction.git
+   git clone https://github.com/HarmanpreetKaur21/Yahoo_Stock_Prediction.git
    ```
 2. Navigate to the project folder:
    ```bash
