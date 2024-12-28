@@ -23,7 +23,7 @@ A machine learning model that predicts Yahoo stock prices using historical data.
    ```
 2. Navigate to the project folder:
    ```bash
-   cd Yahoo-Stock-Prediction
+   cd Yahoo_Stock_Prediction
    ```
 3. Install dependencies:
    ```bash
